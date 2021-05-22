@@ -1,4 +1,4 @@
-#  import excel file to database with mapping
+# How to Crop And Upload Image in Laravel 8
 
 
 Learn How to Crop Image in Laravel 8 framework. How to Crop Image before uploading image by using jQuery Croppie plugin in Laravel 8 framework. 
@@ -14,6 +14,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
+    get clone git@github.com:vishalmandora145/laravel_crop_image_using_cropperjs.git
 
 Switch to the repo folder
 
